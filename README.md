@@ -6,5 +6,5 @@ When you click anywhere on the screen, Koya will open its eyes. It’s a simple,
 
 ## Demo
 
-You can try it live here: [Your GitHub Pages Link](https://yourusername.github.io/your-repo-name/)
+Try it live here: [https://jolene1115.github.io/interactive-avatar/](url)
 
